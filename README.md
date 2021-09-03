@@ -1,5 +1,3 @@
-### Resources
-
 1. CourseraCourses_discrete.csv: https://www.kaggle.com/siddharthm1698/coursera-course-dataset
 
 2. NutritionFactsforMcDonald'sMenu_discrete.csv: https://www.kaggle.com/mcdonalds/nutrition-facts
