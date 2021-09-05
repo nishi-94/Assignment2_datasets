@@ -6,4 +6,4 @@
 
 4. MicrosoftStockPrice_sequential.csv: https://finance.yahoo.com/quote/MSFT/history?period1=1622678400&period2=1630627200&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
 
-5. KivaData_augmented_sample_spatial.csv: https://www.kaggle.com/reubencpereira/spatial-data-repo/version/5?select=kivaData_augmented_sample.csv
+5. ArchitecturalOfficesinFinland_spatial.csv: https://www.kaggle.com/geometrein/architectural-offices-in-finland
